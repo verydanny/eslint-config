@@ -1,5 +1,5 @@
 {
-  "name": "verydanny-plugin-eslint",
+  "name": "eslint-plugin-verydanny",
   "version": "1.0.0",
   "description": "Daniil's eslint configs and rules",
   "keywords": [
@@ -29,7 +29,8 @@
     "@babel/runtime-corejs2": "^7.9.2",
     "eslint-find-rules": "^3.4.0",
     "eslint-index": "^1.5.0",
-    "eslint-plugin-self": "^1.2.0"
+    "eslint-plugin-self": "^1.2.0",
+    "typescript": "3.4.3"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^3.4.0",
