@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-verydanny",
+  "name": "@torpedus/eslint-plugin",
   "version": "1.0.0",
   "description": "Daniil's eslint configs and rules",
   "keywords": [
