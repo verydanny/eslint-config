@@ -20,16 +20,18 @@
     "lib"
   ],
   "peerDependencies": {
-    "eslint": "^7.0.0"
+    "eslint": "^7.0.0",
+    "graphql": "^15.4.0"
   },
   "devDependencies": {
     "eslint": "^7.11.0",
     "eslint-find-rules": "^3.6.1",
     "eslint-index": "^1.5.0",
     "eslint-plugin-self": "^1.2.0",
-    "pkg-dir": "^4.2.0",
+    "pkg-dir": "^5.0.0",
     "pluralize": "^8.0.0",
-    "typescript": "4.0.3"
+    "typescript": "4.0.3",
+    "graphql": "^15.4.0"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.1.1",
@@ -51,7 +53,6 @@
     "eslint-plugin-sort-class-members": "^1.8.0",
     "eslint-plugin-typescript": "^0.14.0",
     "merge": "^1.2.1",
-    "pkg-dir": "^5.0.0",
     "pluralize": "^8.0.0"
   }
 }
