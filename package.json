@@ -20,20 +20,22 @@
     "lib"
   ],
   "peerDependencies": {
-    "eslint": "^7.0.0",
-    "graphql": "^15.4.0",
-    "prettier": "^2.1.2"
+    "eslint": "^7.0.0"
+  },
+  "optionalDependencies": {
+    "prettier": "^2.1.2",
+    "graphql": "^15.4.0"
   },
   "devDependencies": {
     "eslint": "^7.12.1",
     "eslint-find-rules": "^3.6.1",
     "eslint-index": "^1.5.0",
     "eslint-plugin-self": "^1.2.0",
-    "graphql": "^15.4.0",
     "pkg-dir": "^5.0.0",
     "pluralize": "^8.0.0",
+    "typescript": "4.0.5",
     "prettier": "^2.1.2",
-    "typescript": "4.0.5"
+    "graphql": "^15.4.0"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.6.0",
